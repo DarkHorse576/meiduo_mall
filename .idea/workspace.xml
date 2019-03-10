@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5452ecd-2789-4965-a16c-fa5e518e86a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/goods_judge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/QQ-weixin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/adv01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/adv02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/banner03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/bar_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/clock.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/find-password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods/goods009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/goods_450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/icons02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/interval_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/left_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/login_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/logo02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/pic_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/register_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/shine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/shop_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/stars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/images/time_count_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/axios-0.18.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/goods_judge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/user_center_site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/js/vue-2.5.16.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/order_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/place_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_pass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_end_pc/user_center_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,26 +21,58 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
+          <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front_end_pc/css/main.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front_end_pc/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/front_end_pc/cart.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -140,12 +106,6 @@
             </path>
             <path>
               <item name="meiduo_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meiduo_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="front_end_pc" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meiduo_mall" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -159,6 +119,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front_end_pc" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,7 +152,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1297" height="620" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940239" />
@@ -196,6 +160,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +186,18 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/front_end_pc/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
